@@ -10,11 +10,11 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+Adds two 2-bit numbers using logic gates.
 
 ## How to test
-
 Explain how to use your project
+IN0, IN1 represents the first 2-bit number, IN2, IN3 represents the second 2-bit number.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Switches and LEDs.
